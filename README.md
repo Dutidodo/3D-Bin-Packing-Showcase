@@ -181,7 +181,7 @@ Self-check OK: 120 items, 3 containers, 0 violations (bounds, overlaps, weight, 
   <img src="assets/demo/fleet.png" width="900" alt="All containers of the demo solution">
 </p>
 
-The `--html` option writes `assets/demo/packing.html`: an interactive 3D view (plotly) with one view per container. You can rotate and zoom, and hovering on a box shows the item, its extents and its position.
+The `--html` option also writes `assets/demo/packing.html`, which you can open in a browser. It is an interactive 3D view (plotly) with one view per container: you can rotate and zoom, and hovering on a box shows the item, its extents and its position. The page is generated locally and is not stored in the repository.
 
 ## Benchmark
 

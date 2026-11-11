@@ -13,8 +13,8 @@ venv/
 datasets/
 results/
 *.zip
-# interactive pages of the real solutions contain exact coordinates: keep them local
-assets/real/*.html
+# interactive plotly pages are generated output (python demo.py --html): not committed
+assets/**/*.html
 
 # OS / editors
 .DS_Store
