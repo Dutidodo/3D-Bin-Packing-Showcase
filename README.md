@@ -1,4 +1,4 @@
-# Heterogeneous 3D Bin Packing: extreme points, local search and ALNS
+# Heterogeneous 3D Bin Packing: extreme points, local search and ALNS  
 
 <p align="center">
   <img src="assets/demo/build.gif" width="560" alt="A container being filled box by box by the demo heuristic">
